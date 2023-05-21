@@ -1,1 +1,3 @@
-# organize-rs.github.io
+# organize website
+
+A file management automation tool.
